@@ -4,6 +4,4 @@ Hello! Keep on Coding...
 
 ![Top Langs](https://github-readme-stats-2gcd-liuhanalice.vercel.app/api/top-langs/?username=liuhanalice&theme=vue&layout=compact&langs_count=20&hide=asp.net,objective-c)
 
-Last 7 days working stats:
-
-![Han's wakatime stats](https://github-readme-stats-2gcd-liuhanalice.vercel.app/api/wakatime?username=liuhanalice&range=last_7_days&theme=vue&hide=text,other)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liuhanalice&theme=vue&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
